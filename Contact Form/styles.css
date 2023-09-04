@@ -4,9 +4,14 @@
     background-color: #f3f3f3;
 }
 
-h1, p {
+h1 {
     margin: 1em auto;
     text-align: center;
+}
+
+p {
+    margin: 1em 1rem;
+    text-align: left;
 }
   
 form {
@@ -17,6 +22,16 @@ form {
     padding-bottom: 2em;
 }
 
+fieldset {
+    border: none;
+    padding: 2rem 0;
+    border-bottom: 1px solid #3b3b4f;
+  }
+  
+  fieldset:last-of-type {
+    border-bottom: none;
+  }
+
 .inline {
     width: unset;
     margin: 0 0.5em 0 0;
@@ -25,5 +40,6 @@ form {
 
 label {
     display: block;
+    margin: 0.5rem 0;
 }
 
