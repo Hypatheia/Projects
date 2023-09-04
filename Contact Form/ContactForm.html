@@ -17,28 +17,36 @@
 
             <fieldset>
                 <p>Anliegen</p>
-                <label for="subject1" class="inline"><input type="radio" id="subject1" name="subject" /> Anliegen #1</label>
-                <label for="subject2" class="inline"><input type="radio" id="subject2" name="subject" /> Anliegen #2</label>
-                <label for="subject3" class="inline"><input type="radio" id="subject3" name="subject" /> Anliegen #3</label>
+                <label for="subject1"><input type="radio" id="subject1" name="subject" class="inline" /> Anliegen #1</label>
+                <label for="subject2"><input type="radio" id="subject2" name="subject" class="inline" /> Anliegen #2</label>
+                <label for="subject3"><input type="radio" id="subject3" name="subject" class="inline" /> Anliegen #3</label>
             </fieldset>
 
             <fieldset>
                 <p>Erwünschte Maßnahmen</p>
-                <label for="measure1" class="inline"><input type="checkbox" id="measure1" name="measure" /> Maßnahme #1</label>
-                <label for="measure2" class="inline"><input type="checkbox" id="measure2" name="measure" /> Maßnahme #2</label>
-                <label for="measure3" class="inline"><input type="checkbox" id="measure3" name="measure" /> Maßnahme #3</label>
-                <label for="measure4" class="inline"><input type="checkbox" id="measure4" name="measure" /> Maßnahme #4</label>
-                <label for="measure5" class="inline"><input type="checkbox" id="measure5" name="measure" /> Maßnahme #5</label>
-                <label for="measure6" class="inline"><input type="checkbox" id="measure6" name="measure" /> Maßnahme #6</label>
+                <table width="100%">
+                    <tr>
+                        <td>
+                            <label for="measure1"><input type="checkbox" id="measure1" name="measure" class="inline" /> Maßnahme #1</label>
+                            <label for="measure2"><input type="checkbox" id="measure2" name="measure" class="inline" /> Maßnahme #2</label>
+                            <label for="measure3"><input type="checkbox" id="measure3" name="measure" class="inline" /> Maßnahme #3</label>
+                        </td>
+                        <td>
+                            <label for="measure4"><input type="checkbox" id="measure4" name="measure" class="inline" /> Maßnahme #4</label>
+                            <label for="measure5"><input type="checkbox" id="measure5" name="measure" class="inline" /> Maßnahme #5</label>
+                            <label for="measure6"><input type="checkbox" id="measure6" name="measure" class="inline" /> Maßnahme #6</label>
+                        </td>
+                    </tr>
+                </table>
             </fieldset>
 
             <fieldset>
-                <label for="textarea">Ihre Nachricht </label>
+                <p for="textarea">Ihre Nachricht </p>
                 <textarea>Beschreiben Sie Ihr Anliegen</textarea>
             </fieldset>
 
             <fieldset>
-                <button type="submit">Senden</button>
+                <input type="submit" />
             </fieldset>
         </form>
     </body>
