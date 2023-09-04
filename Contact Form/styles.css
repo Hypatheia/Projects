@@ -2,6 +2,9 @@
     font-family: 'Open Sans', Arial, Helvetica, sans-serif;
     color: #0e0e0e;
     background-color: #f3f3f3;
+}
+
+label {
     display: block;
 }
 
