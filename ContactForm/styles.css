@@ -72,3 +72,9 @@ input[type="submit"] {
     margin: 0 0.5em 0 0;
     vertical-align: middle;
 }
+
+.logo {
+    width: 15%;
+    position: absolute;
+    top: 23px;
+  }
