@@ -1,0 +1,68 @@
+* {
+    box-sizing: border-box;
+  }
+
+.logo {
+    position: relative;
+    right: 0;
+    left: 0;
+    top: 0;
+    bottom: 0;
+    width: 465px;
+    height: 433px;
+}
+
+h1 {
+    font-size: 48px;
+    font-family: "Source Sans 3", sans-serif;
+    color: #262626;
+    margin: 2rem 1rem 1rem;
+}
+
+.RESTAURIERUNGS {
+    font-size: 48px;
+    font-family: "Source Sans 3", sans-serif;
+    color: rgb(209, 49, 49);
+    line-height: 0.75;
+    transform: matrix(0.95460510404815, -0.00041487947967, 0, 1, 0, 0);
+    position: absolute;
+    left: 102.176px;
+    top: 292px;
+    z-index: 4;
+}
+
+.KOLLEKTIV {
+    font-size: 48px;
+    font-family: "Source Sans 3", sans-serif;
+    letter-spacing: 18px;
+    color: #d13131;
+    line-height: 0.75;
+    transform: matrix(0.95460510404815, -0.00041487947967, 0, 1, 0, 0);
+    position: absolute;
+    left: 102.176px;
+    top: 332px;
+    z-index: 3;
+} 
+  
+.RK {
+    font-size: 300px;
+    font-family: "Baron Neue", sans-serif;
+    color: #d13131;
+    line-height: 1.2;
+    position: absolute;
+    left: 91.938px;
+    top: 22px;
+    z-index: 2;
+}
+
+.Logo {
+    background-image: url("Logo.png");
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    width: 465px;
+    height: 433px;
+    z-index: 5;
+  }
+  
+  
