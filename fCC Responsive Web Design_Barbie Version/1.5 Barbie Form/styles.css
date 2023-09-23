@@ -73,17 +73,29 @@ fieldset {
   padding: 0;
 }
 
-input {
-display: block;
-margin: 10px 0 30px 0;
-padding: auto;
-text-align: left;
-height: 2rem;
-color: var(--barbie-blue);
-background-color: var(--main-white);
-background-clip: padding-box;
-border: none;
+input, textarea {
+  display: block;
+  background-color: var(--main-white);
+  background-clip: padding-box;
+  border: none;
 }
+
+input {
+  margin: 10px 0 30px 0;
+  padding: auto;
+  text-align: left;
+  height: 2rem;
+  color: var(--barbie-blue);
+  
+}
+
+textarea {
+  margin-top: 10px;
+  height: 8rem;
+  width: 100%;
+  font-family: Lato, sans-serif;
+  color: var(--barbie-pink01);
+  }
 
 #description {
 font-family: Lato, sans-serif;
@@ -119,18 +131,6 @@ list-style-type: none;
 
 legend {
 margin: 2rem 0 0;
-}
-
-#comment {
-display: block;
-height: 8rem;
-width: 100%;
-color: var(--barbie-pink01);
-background-color: var(--main-white);
-background-clip: padding-box;
-border: none;
-margin-top: 10;
-font-family: Lato, sans-serif;
 }
 
 #submit {
