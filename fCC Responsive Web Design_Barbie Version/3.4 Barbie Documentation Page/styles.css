@@ -58,21 +58,21 @@ html, body {
     border-right: solid var(--barbie-pink03);
   }
   
-  header {
+  header, h4 {
     font-family: 'Dancing Script', serif;
+    margin: 10px;
+    text-align: left;
+    padding: 30px 0 0 0;
+  }
+
+  header {
     font-size: 2.8em;
     color: var(--barbie-yellow);
-    margin: 10px;
-    padding: 30px 0 10px 0;
-    text-align: left;
+    padding-bottom: 10px;
   }
 
   h4 {
-    font-family: 'Dancing Script', serif;
     font-size: 1.8em;
-    margin: 10px;
-    padding: 30px 0 0 0;
-    text-align: left;
   }
 
   b {
@@ -169,7 +169,8 @@ html, body {
     word-break: normal;
     word-wrap: normal;
     line-height: 2;
-    background-color: var(--barbie-yellow);opacity: 0.6;
+    background-color: var(--barbie-yellow);
+    opacity: 0.6;
     color: var(--barbie-pink01);
     padding: 15px;
     margin: 10px;
