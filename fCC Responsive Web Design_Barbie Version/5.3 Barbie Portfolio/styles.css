@@ -32,6 +32,7 @@
     --barbie-blue: #87ced0;
     --main-white: #f0f0f0;
     --main-rose: #ffc0cb;
+    --project-background: #f7f7f7;
   }
   * {
     padding: 0;
@@ -48,6 +49,7 @@
     color: var(--barbie-pink01);
     background: linear-gradient(-45deg, var(--barbie-yellow), var(--barbie-pink02) 100%);
     font-weight: normal;
+    width: 100%;
   }
   
   h1, h2, h3, h4, h5,h6  {
@@ -161,24 +163,33 @@
     margin: auto;
     padding-top: 10px;
     padding-bottom: 20px;
-    background-color: #f7f7f7;
+    background-color: var(--project-background);
   }
   
   .project-tile:hover {
     transform: scale(1.1);
     transition: all .5s ease-in-out;
-    background-color: #f7f7f7;
+    background-color: var(--project-background);
+    border: 3px solid var(--barbie-pink01);
   }
   
   .project-tile {
     width: 100%;
     max-width: 250px;
-    border: solid 2px var(--barbie-pink02);
-    background-color: #f7f7f7;
+    border: none;
+    background-color: var(--project-background);
+    transition: all .5s ease-in-out;
+    border: 3px solid var(--barbie-pink01);
+  }
+
+  .project-tile:hover .project-text {
+    background-color: var(--barbie-pink01);
     transition: all .5s ease-in-out;
   }
   
   .project-text {
+    margin: 0;
+    padding: 0;
     background-color: var(--barbie-blue);
     height: 40px;
     padding-top: 3.5%;
@@ -191,7 +202,7 @@
     font-size: 17px;
   }
   
-  a:hover, .button:hover, .project-text:hover {
+  a:hover, .button:hover {
     color: var(--barbie-yellow);
     background-color: var(--barbie-pink01);
     transition: all .5s ease-in-out;
@@ -265,7 +276,7 @@
     background: none;
   }
   
-  .footer {
+  footer {
     font-weight: lighter;
     font-size: 15px;
     color: var(--main-white);
@@ -273,53 +284,64 @@
     padding-top: 30px;
     border-top: solid 3px var(--barbie-blue);
     height: 80px;
-    display: grid;
-    grid-template-columns: 1fr 1fr; 
-    
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
   }
   
   .left {
+    text-align: left;
+    width: 50%;
     margin-left: 30px;
+    flex: 1;
   }
   .right {
+    text-align: right;
+    width: 50%;
     margin-right: 30px;
-    justify-self: end;
+    flex: 1;
   }
   
-  .footer a {
+  footer a {
     text-decoration: none;
     color: var(--main-white);
     transition: all .5s ease-in-out;
   }
   
   @media only screen and (max-width:720px) {
-    .footer {
+    footer {
       width: 100%; 
       height: 100px;
       padding-top: 30px;
       line-height: 26px;
       border-top: solid 3px var(--barbie-blue);
-      display: block;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      text-align: center;
     }
     .left, .right {
-      text-align: center;
       margin: auto;
       padding: auto;
+      width: 100%;
     }
   }
   
   @media only screen and (max-width:600px) {
-    .footer {
+    footer {
       width: 100%; 
       height: 100px;
       padding-top: 30px;
       line-height: 26px;
       border-top: solid 3px var(--barbie-blue);
-      display: block;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      text-align: center;
     }
     .left, .right {
-      text-align: center;
       margin: auto;
       padding: auto;
+      width: 100%;
     }
   }
