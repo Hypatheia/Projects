@@ -60,7 +60,7 @@ h1 {
 form {
   background-color: var(--barbie-pink01);
   font-family: Lato, sans-serif;
-  font-size: 18;
+  font-size: 18pt;
   color: var(--main-white);
   padding: 20px;
   max-width: 500px;
@@ -113,7 +113,7 @@ textarea {
   background-color: var(--main-white);
   background-clip: padding-box;
   border: none;
-  margin-top: 10;
+  margin-top: 10px;
   width: 100%;
 }
 
