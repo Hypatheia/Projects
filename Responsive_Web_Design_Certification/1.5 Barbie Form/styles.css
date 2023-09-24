@@ -43,7 +43,7 @@ body {
   background-image: linear-gradient(115deg,
       #f9dd9a4a,
       var(--barbie-pink01)),
-    url(https://images.contentstack.io/v3/assets/blt485dfa12bf05dba5/blt8757cec4d0e2ee0d/646513800a3fbb0087ee3cc0/BARBIE_AboutPage_Module3_2386w_Desktop.jpg);
+    url('../images/background.jpg');
     background-size: cover;
     background-repeat: no-repeat;
     background-position: right;
@@ -114,7 +114,7 @@ textarea {
   background-color: var(--main-white);
   background-clip: padding-box;
   border: none;
-  margin-top: 10px;
+  margin: 10px 0;
   width: 100%;
 }
 
