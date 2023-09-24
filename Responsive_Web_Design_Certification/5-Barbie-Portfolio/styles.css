@@ -96,6 +96,39 @@
         justify-content: center;
       }
     }
+
+/* dropdown menu */
+.drop-menu {
+  display: none;
+  position: absolute;
+  background-color: var(--barbie-pink01);
+  opacity: 65%;
+  min-width: 160px;
+  z-index: 1;
+  top: 100%;
+  padding-right: 2rem;
+}
+
+/* Style the dropdown links */
+.drop-menu li {
+  padding: 10px;
+  text-align: left;
+}
+
+/* Show the dropdown when the parent list item is hovered over */
+.nav-list.dropdown:hover .drop-menu {
+  display: block;
+}
+
+/* Style the links in the dropdown menu */
+.drop-menu a {
+  display: block;
+  padding: 10px;
+  width: 100%;
+  text-decoration: none;
+  color: var(--main-white);
+}
+/* dropdown menu end */
   
   nav > ul {
     display: flex;
