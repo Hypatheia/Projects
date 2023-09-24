@@ -8,7 +8,7 @@ Welcome to my documentation page, which is the third step in my journey towards 
 
 ## Learning and progress
 
-As I delved into this project, I found myself becoming more confident in my coding skills. My initial code was fine, but I wanted to add a touch of uniqueness to match the Barbie theme. I explored the use of `:hover' and `:active' functions to create interactive and engaging elements. These additions not only made the site more engaging, but also contributed to a more immersive Barbie experience.
+As I delved into this project, I found myself becoming more confident in my coding skills. My initial code was fine, but I wanted to add a touch of uniqueness to match the Barbie theme. I explored the use of `:hover' and `:active' functions to create interactive and engaging elements. I also got experience changing the appearance of `<code></code>` elements, adjusting their opacity to enhance their visibility. Additionally, I transformed the appearance of `<ol></ol>` elements by applying the Barbie-like font and a custom font color. These additions not only made the site more engaging, but also contributed to a more immersive Barbie experience.
 
 When rewriting my code, I placed a strong emphasis on cleanliness and organisation. I wanted the code to reflect the precision and elegance associated with Barbie. This focus on clean code not only improves readability, but also ensures that the site runs smoothly.
 
