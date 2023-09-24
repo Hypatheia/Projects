@@ -196,10 +196,10 @@
 
   .paragraph::first-letter {
     font-family: 'Dancing Script', serif;
-    font-size: 42pt;
+    font-size: 36pt;
     color: var(--barbie-blue);
     float: left;
-    margin-top: 0px;
+    margin-top: -10px;
     margin-right: 10px;
     margin-bottom: -20px;
   }
