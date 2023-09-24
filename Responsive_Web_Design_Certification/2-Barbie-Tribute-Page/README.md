@@ -16,6 +16,6 @@ I added a max-width feature to ensure that the site retained its visual appeal o
 
 ## Use and Presentation
 
-You can explore the live tribute page here: [Barbie Tribute Page](https://tribute-page-cyan-sigma.vercel.app/).
+You can explore the live tribute page here: [Barbie Tribute Page](https://responsive-web-design-khaki.vercel.app/2-Barbie-Tribute-Page/index.html).
 
 Like Barbie herself, my journey is one of empowerment, creativity, and growth. Thank you for joining me on this adventure.

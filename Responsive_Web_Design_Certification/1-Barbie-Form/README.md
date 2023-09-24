@@ -23,4 +23,4 @@ I also brought my new-found knowledge to the project with the aim of creating cl
 
 To share my progress and achievements, my learning partner <a href="https://github.com/ktothe" target="_blank" alt="A link to ktothe's freeCodeCamp profile">@ktothe</a> showed me how to host my project on Vercel directly from GitHub. This streamlined approach provides easy access to demo pages for all of my certification projects, facilitating interaction and feedback.
 
-I invite you to explore the live demo for this project here: [Survey Form Demo](https://projects-o8bll1dzj-feezessin.vercel.app/).
+I invite you to explore the live demo for this project here: [Survey Form Demo](https://responsive-web-design-khaki.vercel.app/1-Barbie-Form/index.html).
