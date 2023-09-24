@@ -1,5 +1,5 @@
 # fCC Survey Form
-<p style="text-align: center;">![Screenshot of the Barbie Survey Form](/images/Screenshot_Form.png)</p>
+<p style="text-align: center;">![Screenshot of the Barbie Survey Form]()../images/Screenshot_Form.png)</p>
 
 ## Project Overview
 
@@ -11,7 +11,6 @@ Inspired by the world of Barbie and her captivating adventures, I decided to put
 
 By infusing my project with the charm and whimsy of the Barbie film, I found a delightful and fun theme that allowed me to express my creativity while honing my web development skills. This transformation from a faithful replica to a unique and imaginative project embodies my dedication to embracing challenges and making each project my own.
 
----
 
 ## Learning and progress
 
@@ -19,7 +18,6 @@ Throughout the project I encountered various challenges and opportunities for gr
 
 I also brought my new-found knowledge to the project with the aim of creating cleaner and more accessible code. This reflects my commitment not only to completing the project, but also to continually improving my web development skills.
 
----
 
 ## Use and presentation
 
