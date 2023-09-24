@@ -1,6 +1,6 @@
 # Barbie Tribute Page
 
-![Screenshot of the Barbie Tribute Page](/Responsive_Web_Design_Certification/2-Barbie-Tribute/images/Screenshot_Tribute_Page.png)
+![Screenshot of the Barbie Tribute Page](/images/Screenshot_Tribute_Page.png)
 
 ## Project Overview
 
