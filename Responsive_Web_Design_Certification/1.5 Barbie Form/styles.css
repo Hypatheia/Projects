@@ -44,9 +44,10 @@ body {
       #f9dd9a4a,
       var(--barbie-pink01)),
     url(https://images.contentstack.io/v3/assets/blt485dfa12bf05dba5/blt8757cec4d0e2ee0d/646513800a3fbb0087ee3cc0/BARBIE_AboutPage_Module3_2386w_Desktop.jpg);
-  background-size: cover;
-  background-repeat: no-repeat;
-  background-position: right;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: right;
+    min-height: 100vh;
 }
 
 h1 {
