@@ -1,5 +1,5 @@
 # fCC Survey Form
-<p style="text-align: center;">![Screenshot of the Barbie Survey Form](/Responsive_Web_Design_Certification/1.5%20Barbie%20Form/images/Screenshot_Form.png)</p>
+<p style="text-align: center;">![Screenshot of the Barbie Survey Form](/Responsive_Web_Design_Certification/1-Barbie-Form/images/Screenshot_Form.png)</p>
 
 ## Project Overview
 
