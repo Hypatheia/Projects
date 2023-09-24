@@ -4,19 +4,17 @@
 
 ## Project Overview
 
-Welcome to my second project on the journey towards freeCodeCamp's Responsive Web Design certification. This time, the goal was to create a tribute page, paying homage to an iconic figure. I initially attempted to recreate the sample page identically to meet the certification requirements. However, as I delved into this project, I decided to infuse it with a bit of magic from the Barbie universe, making it Barbie-themed to align with my creative journey.
+Welcome to my second project on the road to freeCodeCamp's Responsive Web Design certification. This time, the goal was to create a tribute page that pays homage to an iconic figure. Initially, I tried to recreate the sample page identically to meet the certification requirements. However, as I delved deeper into the project, I decided to add a bit of magic from the Barbie universe and make it Barbie-themed to match my creative journey.
 
-**Barbie**, the world's iconic fashion doll, has transcended generations, inspiring people to dream big, shatter stereotypes, and embrace their true selves. Beyond her fashionable exterior, Barbie symbolizes empowerment, resilience, and limitless potential. She challenges traditional gender roles, encouraging us to reach for the stars.
+**Barbie**, the world's iconic fashion doll, has transcended generations, inspiring people to dream big, shatter stereotypes and embrace their true selves. Beyond her fashionable exterior, Barbie symbolises empowerment, resilience and limitless potential. She challenges traditional gender roles and encourages us to reach for the stars.
 
 ## Learning and Progress
 
-My learning journey for this project was marked by a focus on improving responsiveness. While I initially succeeded in creating a responsive design, I noticed that the aesthetics could be enhanced, particularly when the window size increased. To address this, I revisited my code and made crucial improvements.
+My learning journey for this project has been marked by a focus on improving responsiveness. Whilst I was initially successful in creating a responsive design, I realised that the aesthetics could be improved, particularly as the window size increased. To address this, I reviewed my code and made key improvements.
 
-I incorporated a max-width feature, ensuring that the page maintains its visual appeal, even on larger screens. Additionally, I adjusted the width of various text elements, such as lists, subtitles, and headers, to create a more harmonious layout. To add a touch of Barbie magic, I sourced a Barbie-like font from the internet for the headlines and revamped the design of the unordered list (ul).
+I added a max-width feature to ensure that the site retained its visual appeal on larger screens. I also adjusted the width of various text elements, such as lists, subtitles and headers, to create a more harmonious layout. To add a touch of Barbie magic, I sourced a Barbie-like font for the headlines and redesigned the unordered list (ul).
 
 ## Use and Presentation
-
-To share my project effectively, I continued to explore ways to enhance user experience and accessibility. My learning partner, [@ktothe](https://github.com/ktothe), played an instrumental role by introducing me to Vercel, a platform for hosting projects. With their guidance, I learned how to host my project on Vercel directly from GitHub, making it simpler for others to access and provide valuable feedback.
 
 You can explore the live tribute page here: [Barbie Tribute Page](https://tribute-page-cyan-sigma.vercel.app/).
 
