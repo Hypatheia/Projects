@@ -22,4 +22,4 @@ The Dream Barbies Landing Page is not just a project; it's a testament to my jou
 
 ## Use and Presentation
 
-You can explore the live tribute page here: [Barbie Landing Page](#).
+You can explore the live tribute page here: [Barbie Landing Page](https://responsive-web-design-khaki.vercel.app/4-Barbie-Landing-Page/index.html).

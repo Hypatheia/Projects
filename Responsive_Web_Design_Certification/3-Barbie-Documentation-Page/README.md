@@ -16,6 +16,6 @@ I also had the pleasure of using ChatGPT to generate content, filling the docume
 
 ## Use and Presentation
 
-You can explore the live documentation page here: [Barbie Documentation Page](https://documentation-page-bice.vercel.app/).
+You can explore the live documentation page here: [Barbie Documentation Page](https://responsive-web-design-khaki.vercel.app/3-Barbie-Documentation-Page/).
 
 Just as **Barbie** continues to evolve and inspire, my journey in web development evolves with each project. Thank you for joining me on this creative and empowering adventure.
