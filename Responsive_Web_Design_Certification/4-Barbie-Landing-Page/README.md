@@ -1,4 +1,4 @@
-Barbie Landing Page
+# Barbie Landing Page
 
 ![Screenshot of the Barbie Landing Page](/Responsive_Web_Design_Certification/4-Barbie-Landing-Page/images/Screenshot-Landing_Page.png)
 
