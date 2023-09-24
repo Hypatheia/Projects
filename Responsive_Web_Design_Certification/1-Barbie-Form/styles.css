@@ -43,7 +43,7 @@ body {
   background-image: linear-gradient(115deg,
       #f9dd9a4a,
       var(--barbie-pink01)),
-    url('1-Barbie-Form/images/background.jpg');
+    url('/1-Barbie-Form/images/background.jpg');
     background-size: cover;
     background-repeat: no-repeat;
     background-position: right;
