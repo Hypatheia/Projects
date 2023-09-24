@@ -1,6 +1,6 @@
 # Barbie Documentation Page
 
-![Screenshot of the Barbie Documentation Page](/images/Screenshot_Documentation_Page.png)
+![Screenshot of the Barbie Documentation Page](/Responsive_Web_Design_Certification/3-Barbie-Documentation-Page/images/Screenshot_Documentation_Page.png)
 
 ## Project Overview
 
