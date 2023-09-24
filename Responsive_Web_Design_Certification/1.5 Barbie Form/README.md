@@ -1,5 +1,5 @@
 # fCC Survey Form
-<p style="text-align: center;">![Screenshot of the Barbie Survey Form]()../images/Screenshot_Form.png)</p>
+<p style="text-align: center;">![Screenshot of the Barbie Survey Form](../images/Screenshot_Form.png)</p>
 
 ## Project Overview
 
