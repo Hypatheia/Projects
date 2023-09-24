@@ -48,6 +48,7 @@ body {
     background-repeat: no-repeat;
     background-position: right;
     min-height: 100vh;
+  font-weight: lighter;
 }
 
 h1 {
@@ -71,7 +72,7 @@ form {
 fieldset {
   border: none;
   margin: 0;
-  padding: 0;
+  padding: 0 0 20px 0;
 }
 
 input, textarea {
@@ -79,20 +80,20 @@ input, textarea {
   background-color: var(--main-white);
   background-clip: padding-box;
   border: none;
+  color: var(--barbie-pink01);
 }
 
 input {
   margin: 10px 0 30px 0;
   padding: auto;
   text-align: left;
-  height: 2rem;
-  color: var(--barbie-blue);
+  height: 32px;
   
 }
 
 textarea {
   margin-top: 10px;
-  height: 8rem;
+  height: 128px;
   width: 100%;
   font-family: Lato, sans-serif;
   color: var(--barbie-pink01);
@@ -109,29 +110,31 @@ textarea {
 
 #dropdown, #number, #email, #name {
   display: block;
-  height: 2rem;
-  color: var(--barbie-pink01);
+  height: 32px;
+  color: var(--barbie-pink01) !important;
   background-color: var(--main-white);
   background-clip: padding-box;
   border: none;
-  margin: 20px 0;
+  margin: 10px 0;
   width: 100%;
+}
+
+legend {
+  margin: 30px 0 10px;
 }
 
 input[type="radio"], input[type="checkbox"] {
   display: inline-block;
   vertical-align: -9px;
-  margin: 0 0.625rem;
-  min-height: 1.25rem;
-  min-width: 1.25rem;
+  margin: 0 10px;
+  min-height: 20px;
+  min-width: 20px;
 }
 
-li {
+ul {
   list-style-type: none;
-}
-
-legend {
-  margin: 2rem 0 0;
+  padding: 0;
+  margin: 0;
 }
 
 #submit {
@@ -141,7 +144,7 @@ legend {
   font-weight: normal;
   font-size: 17px;
   transition: all .5s ease-in-out;
-  height: 2.5rem;
+  height: 40px;
   background-clip: padding-box;
   border: none;
   margin-top: 10px;
