@@ -7,7 +7,7 @@ let questions; // This variable will hold the fetched question data
 let currentQuestion;
 
 // Fetch the JSON data when the page loads
-fetch("http://localhost:8080/Selfcare%20Manual/questions.json")
+fetch("/Users/nathaly/GitHub/Projects/SelfcareManual/questions.json")
   .then((response) => response.json())
   .then((data) => {
     questions = data;

@@ -1,25 +1,25 @@
 [
     {
         "question": "How are you feeling right now?",
-        "options": [
+        "option": [
             {
-            "answers": "Great, thanks!",
-            "responses": "That's wonderful! Keep up the positive vibes.",
-            "suggestions": ["I am worthy of love, happiness, and success."]
+            "answer": "Great, thanks!",
+            "response": "That's wonderful! Keep up the positive vibes.",
+            "suggestion": ["I am worthy of love, happiness, and success."]
             },
             {
-            "answers": "Not so good.",
-            "responses": "I'm here to help. Let's work on making you feel better.",
-            "suggestions": [
+            "answer": "Not so good.",
+            "response": "I'm here to help. Let's work on making you feel better.",
+            "suggestion": [
                 "Take a moment to reflect on what's bothering you and jot down your thoughts.",
                 "Consider doing a quick breathing exercise to calm your mind.",
                 "Find a cozy spot and engage in a relaxing activity like reading a book or listening to soothing music."
             ]
             },
             {
-            "answers": "I don't know...",
-            "responses": "No worries, we'll figure it out together.",
-            "suggestions": [
+            "answer": "I don't know...",
+            "response": "No worries, we'll figure it out together.",
+            "suggestion": [
                 "Take a few deep breaths and try to identify any physical sensations or thoughts.",
                 "You could start by checking in on your basic needs like hydration, food, and rest."
             ]
@@ -28,16 +28,16 @@
     },
     {
         "question": "When was the last time you drank some water?",
-        "options": [
+        "option": [
             {
-            "answers": "I just had some.",
-            "responses": "Fantastic! Staying hydrated is key to feeling your best.",
-            "suggestions": ["I believe in myself and my abilities."]
+            "answer": "I just had some.",
+            "response": "Fantastic! Staying hydrated is key to feeling your best.",
+            "suggestion": ["I believe in myself and my abilities."]
             },
             {
-            "answers": "Thanks for the reminder!",
-            "responses": "You're welcome! Remember to take a sip soon.",
-            "suggestions": [
+            "answer": "Thanks for the reminder!",
+            "response": "You're welcome! Remember to take a sip soon.",
+            "suggestion": [
                 "Make a cup of tea and take a deep breath.",
                 "Not only your plants love hydrating themselves - drink a glass of water.",
                 "Yes, caffeine makes the anxiety go brrrr, but maybe try having a sip of water instead?"
@@ -47,16 +47,16 @@
     },
     {
         "question": "Did you eat today?",
-        "options": [
+        "option": [
             {
                 "answer": "Yes, I had a meal.",
                 "response": "That's great! Nourishing your bpdy is important.",
-                "suggestions": ["I attract positive energy and opportunities into my life."]
+                "suggestion": ["I attract positive energy and opportunities into my life."]
             },
             {
                 "answer": "No, I forgot.",
                 "response": "No worries, consider having a snack or meal soon.",
-                "suggestions": [
+                "suggestion": [
                     "Grab a healthy snack like a piece of fruit or some nuts to tide you over.",
                     "Prepare a quick and easy meal to satisfy your hunger.",
                     "Sometimes a small treat can lift your spirits – maybe indulge in a piece of chocolate."
@@ -66,16 +66,16 @@
     },
     {
         "question": "Have you taken your meds today?",
-        "options": [
+        "option": [
             {
                 "answer": "Yes, I took them",
                 "response": "Good job staying on top of your health.",
-                "suggestions": ["I am grateful for each day and the blessings it brings."]
+                "suggestion": ["I am grateful for each day and the blessings it brings."]
             },
             {
                 "answer": "Oops, I forgot.",
                 "response": "It's important to take your medications. Don't forget next time.",
-                "suggestions": [
+                "suggestion": [
                     "Set a reminder on your phone or create a pill organizer to help you remember.",
                     "Take your meds with a glass of water to ensure you stay on track.",
                     "Consider talking to your healthcare provider about any concerns you have regarding your medication."
@@ -85,16 +85,16 @@
     },
     {
         "question": "Did you procrastinate using the bathroom?",
-        "options": [
+        "option": [
             {
                 "answer": "No, I'm fine.",
                 "response": "Great! Paying attention to your body is important.",
-                "suggestions": ["I am confident in my unique journey and path in life."]
+                "suggestion": ["I am confident in my unique journey and path in life."]
             },
             {
                 "answer": "Yes, I've been putting it off.",
                 "response": "Take a break and use the bathroom. Your comfort is essential.",
-                "suggestions": [
+                "suggestion": [
                     "Don't wait! Head to the bathroom now to relieve yourself and freshen up.",
                     "Take a few extra minutes in the bathroom to pamper yourself with a quick face wash or a stretch."
                 ]
@@ -103,16 +103,16 @@
     },
     {
         "question": "Have you been sitting for a long time without a break?",
-        "options": [
+        "option": [
             {
-                "answers": "I've been active.",
-                "responses": "Keep up the good work! Staying active is great for your well-being.",
-                "suggestions": ["I radiate positivity and kindness to others."]
+                "answer": "I've been active.",
+                "response": "Keep up the good work! Staying active is great for your well-being.",
+                "suggestion": ["I radiate positivity and kindness to others."]
             },
             {
-                "answers": "I've been sitting for a while.",
-                "responses": "Consider taking a short walk or stretching to feel more energized.",
-                "suggestions": [
+                "answer": "I've been sitting for a while.",
+                "response": "Consider taking a short walk or stretching to feel more energized.",
+                "suggestion": [
                     "Set a timer to remind yourself to stand up and stretch every 30 minutes.",
                     "Take a 5-minute break to walk around, even if it's just around your home.",
                     "Try some gentle yoga stretches to ease any stiffness from sitting."
@@ -122,16 +122,16 @@
     },
     {
         "question": "Have you been getting enough sleep?",
-        "options": [
+        "option": [
             {
-                "answers": "Yes, I've been sleeping well.",
-                "responses": "A good night's sleep is essential. Keep it up!",
-                "suggestions": ["I embrace change and see challenges as opportunities for growth."]
+                "answer": "Yes, I've been sleeping well.",
+                "response": "A good night's sleep is essential. Keep it up!",
+                "suggestion": ["I embrace change and see challenges as opportunities for growth."]
             },
             {
-                "answers": "No, I've been having trouble sleeping.",
-                "responses": "Try some relaxation techniques or a bedtime routine for better sleep.",
-                "suggestions": [
+                "answer": "No, I've been having trouble sleeping.",
+                "response": "Try some relaxation techniques or a bedtime routine for better sleep.",
+                "suggestion": [
                     "If you have time, take a nap! If you don't have time, try to close your eyes for 5 minutes instead.",
                     "If taking a nap is not possible, maybe get some good caffeine like green tea or take a quick walk. Sometimes washing your face with cold water helps too.",
                     "Try some quick 5-10 minute meditation and take deep breaths."
@@ -141,16 +141,16 @@
     },
     {
         "question": "Have you been feeling stressed or overwhelmed?",
-        "options": [
+        "option": [
             {
-                "answers": "I'm feeling calm.",
-                "responses": "That's wonderful! Keep practicing self-care.",
-                "suggestions": ["I am in control of my thoughts and choose to focus on the good."]
+                "answer": "I'm feeling calm.",
+                "response": "That's wonderful! Keep practicing self-care.",
+                "suggestion": ["I am in control of my thoughts and choose to focus on the good."]
             },
             {
-                "answers": "Yes, I'm stressed.",
-                "responses": "Take a deep breath and consider some stress-reduction activities.",
-                "suggestions": [
+                "answer": "Yes, I'm stressed.",
+                "response": "Take a deep breath and consider some stress-reduction activities.",
+                "suggestion": [
                     "Practice deep breathing exercises or guided meditation to calm your mind.",
                     "Write down what's causing you stress and explore ways to address those concerns.",
                     "Engage in a relaxing hobby or activity you enjoy to take your mind off stress."
@@ -160,16 +160,16 @@
     },
     {
         "question": "Have you connected with a friend or loved one recently?",
-        "options": [
+        "option": [
             {
-                "answers": "Yes, I talked to someone.",
-                "responses": "Maintaining social connections is important. Keep it up!",
-                "suggestions": ["I am resilient and can overcome any obstacle that comes my way."]
+                "answer": "Yes, I talked to someone.",
+                "response": "Maintaining social connections is important. Keep it up!",
+                "suggestion": ["I am resilient and can overcome any obstacle that comes my way."]
             },
             {
-                "answers": "No, I haven't reached out.",
-                "responses": "Consider connecting with someone you care about.",
-                "suggestions": [
+                "answer": "No, I haven't reached out.",
+                "response": "Consider connecting with someone you care about.",
+                "suggestion": [
                     "Send a quick text or make a phone call to a friend or family member.",
                     "Plan a virtual meetup or coffee date to catch up with a loved one.",
                     "Reaching out to someone can brighten your day and theirs."
@@ -179,16 +179,16 @@
     },
     {
         "question": "Have you spent time outdoors today?",
-        "options": [
+        "option": [
             {
-                "answers": "Yes, I got some fresh air.",
-                "responses": "Spending time outdoors can boost your mood. Keep it up!",
-                "suggestions": ["I am at peace with my past, present, and excited for my future."]
+                "answer": "Yes, I got some fresh air.",
+                "response": "Spending time outdoors can boost your mood. Keep it up!",
+                "suggestion": ["I am at peace with my past, present, and excited for my future."]
             },
             {
-                "answers": "No, I've been indoors all day.",
-                "responses": "Consider taking a short walk outside to enjoy nature.",
-                "suggestions": [
+                "answer": "No, I've been indoors all day.",
+                "response": "Consider taking a short walk outside to enjoy nature.",
+                "suggestion": [
                     "Step outside for a few minutes to soak up some sunlight and fresh air.",
                     "Take a leisurely stroll in a nearby park or green space.",
                     "Being in nature can boost your mood and provide a sense of calm."
