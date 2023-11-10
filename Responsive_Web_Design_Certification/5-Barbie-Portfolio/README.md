@@ -1,4 +1,5 @@
 # Barbie Portfolio
+![Screenshot of the Barbie Portfolio](/Responsive_Web_Design_Certification/5-Barbie-Portfolio/images/Screenshot_Portfolio.png)
 
 Welcome to my final Barbie Portfolio project! This portfolio showcases a Barbie-themed web page with a creative and playful design. It is the culmination of my journey to earn freeCodeCamp's Responsive Web Design certification. Below, you'll find an overview of the project, its features, and my learning experiences during its development.
 
